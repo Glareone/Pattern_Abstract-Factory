@@ -1,0 +1,10 @@
+D:\test projects\Abstract Factory\Abstract Factory\bin\Debug\Abstract Factory.exe
+D:\test projects\Abstract Factory\Abstract Factory\bin\Debug\Abstract Factory.pdb
+D:\test projects\Abstract Factory\Abstract Factory\obj\x86\Debug\Abstract Factory.exe
+D:\test projects\Abstract Factory\Abstract Factory\obj\x86\Debug\Abstract Factory.pdb
+D:\Myproject_git\Abstract Factory_simple_ex\Abstract Factory\obj\x86\Debug\Abstract Factory.exe
+D:\Myproject_git\Abstract Factory_simple_ex\Abstract Factory\obj\x86\Debug\Abstract Factory.pdb
+D:\Myproject_git\Abstract Factory_simple_ex\Abstract Factory\bin\Debug\Abstract Factory.exe
+D:\Myproject_git\Abstract Factory_simple_ex\Abstract Factory\bin\Debug\Abstract Factory.pdb
+D:\Myproject_git\Abstract Factory_simple_example\Abstract Factory\obj\x86\Debug\Abstract Factory.exe
+D:\Myproject_git\Abstract Factory_simple_example\Abstract Factory\obj\x86\Debug\Abstract Factory.pdb
